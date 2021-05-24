@@ -41,9 +41,9 @@
 
 1、修复了 chavyleung 脚本库无法正确拉取的bug ，可以重新fork本项目获取更新，可以到chavyleung.yml中复制代码修改到您的仓库
 
-```
 
 ^_^
+脚本同步
 
 ### AutoSyncScript项目介绍
 ```
