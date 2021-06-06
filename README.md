@@ -2,6 +2,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
+## 注释
+
+sunert同步脚步删除
+i-chenzhe同步脚步删除
+monk仓库已经删除，同步脚步删除
+
 ## 更新日志
 
 ```
