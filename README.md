@@ -3,6 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 注释
+2021.6.13 langkhach270389-Scripting仓库已经删除
+
 ZhiYi脚步库已私有
 
 sunert同步脚步删除
