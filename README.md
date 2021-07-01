@@ -3,6 +3,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 注释
+2021.7.1 sngxpro修改了运行时间，暂时停运行
+
+2021.7.1 sngxpro-QuantumultX修改了运行时间，暂时停运行
+
 2021.6.13 langkhach270389-Scripting仓库已经删除
 
 ZhiYi脚步库已私有
