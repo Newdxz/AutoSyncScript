@@ -3,6 +3,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sngxpro)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 注释
+2021.7.14 Youthsongs-QuantumultX修改了运行时间，暂时停运行
+
+2021.7.14 Youthsongs-QuanX修改了运行时间，暂时停运行
+
 2021.7.3 ningmeng-JavaScript修改了运行时间，暂时停运行
 
 2021.7.1 sngxpro修改了运行时间，暂时停运行
